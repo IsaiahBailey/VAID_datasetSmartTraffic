@@ -1,0 +1,6 @@
+classes= 7
+train  = /home/rvl/KaiChun/Yolov4/darknet/VOCdevkit/train.txt
+valid  = /home/rvl/KaiChun/Yolov4/darknet/VOCdevkit/2007_test_test.txt
+names = data/voc.names
+backup = backup/
+
